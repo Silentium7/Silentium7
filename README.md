@@ -3,7 +3,8 @@
 [![Silentium7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silentium7&theme=radical)](https://github.com/Silentium7/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silentium7)](https://github.com/Silentium7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
