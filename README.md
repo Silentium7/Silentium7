@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969"> <h3 align="left">Connect with me:</h3> </a>
 
 <!--
 **Silentium7/Silentium7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
