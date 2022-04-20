@@ -1,8 +1,6 @@
 ![Cover](https://github.com/Silentium7/Silentium7/blob/main/assets/MY%20GITHUB%20PAGE%20v3.png)
 
-[![Generic badge](https://img.shields.io/badge/<PYTHONrrg>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api ?username=anuraghazra )](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -16,6 +14,13 @@
 
 
 <!--
+________________________________________________________________________________________________________________________________
+
+WEBSITES:
+https://naereen.github.io/badges/
+________________________________________________________________________________________________________________________________
+
+
 **Silentium7/Silentium7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,4 +33,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+________________________________________________________________________________________________________________________________
 -->
