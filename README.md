@@ -1,4 +1,4 @@
-[![MasterHead]("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png")](your GitHub link)
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
 
 <!--
 **Silentium7/Silentium7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
