@@ -6,8 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silentium7&layout=compact&theme=radical)](https://github.com/Silentium7/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Silentium7&theme=radical)](https://github.com/Silentium7/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
+[![trophy](https://github-profile-trophy.vercel.app/?username=Silentium7&theme=radical&row=2)](https://github.com/Silentium7/github-profile-trophy)
 
 
 
