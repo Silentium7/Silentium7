@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Silentium7)](https://git.io/streak-stats)
+[![MasterHead](assets/MY GITHUB PAGE.png)](https://github.com/Silentium7)
 
 <!--
 **Silentium7/Silentium7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
