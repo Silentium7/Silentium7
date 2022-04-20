@@ -1,6 +1,6 @@
 ![Cover](https://github.com/Silentium7/Silentium7/blob/main/assets/MY%20GITHUB%20PAGE%20v3.png)
 
-[![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api ?username=anuraghazra )](https://github.com/anuraghazra/github-readme-stats)
+[![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api ?username=Silentium7 )](https://github.com/Silentium7/github-readme-stats)
 
 
 
