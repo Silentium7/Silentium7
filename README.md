@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969"> <h3 align="left">Connect with me:</h3> </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--
 **Silentium7/Silentium7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
