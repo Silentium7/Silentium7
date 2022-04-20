@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg)](your GitHub link)
 
 <!--
 **Silentium7/Silentium7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
