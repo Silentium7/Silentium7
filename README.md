@@ -1,4 +1,4 @@
-<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
+[![MasterHead]("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png")](your GitHub link)
 
 <!--
 **Silentium7/Silentium7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
