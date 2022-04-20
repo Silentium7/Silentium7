@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="assets/MY GITHUB PAGE.png">
+<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
 
 <!--
 **Silentium7/Silentium7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
