@@ -10,7 +10,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Silentium7&theme=radical&row=2)](https://github.com/Silentium7/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Silentium7&theme=radical&column=-1)](https://github.com/Silentium7/github-profile-trophy)
 
 
 
