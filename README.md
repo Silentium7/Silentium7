@@ -1,5 +1,19 @@
 ![Cover](https://github.com/Silentium7/Silentium7/blob/main/assets/MY%20GITHUB%20PAGE%20v3.png)
 
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Silentium7/Silentium7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
