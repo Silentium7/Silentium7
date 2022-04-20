@@ -1,6 +1,6 @@
 ![Cover](https://github.com/Silentium7/Silentium7/blob/main/assets/MY%20GITHUB%20PAGE%20v3.png)
 
-[![Silentium7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silentium7&hide=stars,commits,prs,issues,contribs)](https://github.com/Silentium7/github-readme-stats)
+[![Silentium7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silentium7)](https://github.com/Silentium7/github-readme-stats)
 
 
 
