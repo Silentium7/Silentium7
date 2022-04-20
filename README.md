@@ -1,4 +1,4 @@
-[![MasterHead]("assets/MY GITHUB PAGE.png")](https://github.com/Silentium7)
+<img align="right" alt="Coding" width="400" src="assets/MY GITHUB PAGE.png">
 
 <!--
 **Silentium7/Silentium7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
